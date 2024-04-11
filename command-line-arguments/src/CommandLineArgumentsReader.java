@@ -3,5 +3,6 @@ public class CommandLineArgumentsReader {
         for (String arg : args) {
             System.out.println(arg);
         }
+
     }
 }
